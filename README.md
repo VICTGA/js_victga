@@ -1,1 +1,1 @@
-# js_victga
+# https://victga.github.io/js_victga/
